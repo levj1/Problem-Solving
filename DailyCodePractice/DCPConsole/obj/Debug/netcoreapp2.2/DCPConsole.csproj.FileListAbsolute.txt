@@ -1,0 +1,14 @@
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\bin\Debug\netcoreapp2.2\DCPConsole.deps.json
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\bin\Debug\netcoreapp2.2\DCPConsole.runtimeconfig.json
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\bin\Debug\netcoreapp2.2\DCPConsole.runtimeconfig.dev.json
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\bin\Debug\netcoreapp2.2\DCPConsole.dll
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\bin\Debug\netcoreapp2.2\DCPConsole.pdb
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\bin\Debug\netcoreapp2.2\CommonSolution.dll
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\bin\Debug\netcoreapp2.2\CommonSolution.pdb
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\obj\Debug\netcoreapp2.2\DCPConsole.csprojAssemblyReference.cache
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\obj\Debug\netcoreapp2.2\DCPConsole.csproj.CoreCompileInputs.cache
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\obj\Debug\netcoreapp2.2\DCPConsole.AssemblyInfoInputs.cache
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\obj\Debug\netcoreapp2.2\DCPConsole.AssemblyInfo.cs
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\obj\Debug\netcoreapp2.2\DCPConsole.csproj.CopyComplete
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\obj\Debug\netcoreapp2.2\DCPConsole.dll
+C:\Development\practice-solving-problems\DailyCodePractice\DCPConsole\obj\Debug\netcoreapp2.2\DCPConsole.pdb

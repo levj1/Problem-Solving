@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfCheckOut", "SelfCheckOut\SelfCheckOut.csproj", "{6398AFB2-8C8A-41B6-ABCA-63186522E319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfCheckOutTest", "SelfCheckOutTest\SelfCheckOutTest.csproj", "{8783B4B9-7D03-4459-B3B1-E827EACC44F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6398AFB2-8C8A-41B6-ABCA-63186522E319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6398AFB2-8C8A-41B6-ABCA-63186522E319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6398AFB2-8C8A-41B6-ABCA-63186522E319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6398AFB2-8C8A-41B6-ABCA-63186522E319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8783B4B9-7D03-4459-B3B1-E827EACC44F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8783B4B9-7D03-4459-B3B1-E827EACC44F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8783B4B9-7D03-4459-B3B1-E827EACC44F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8783B4B9-7D03-4459-B3B1-E827EACC44F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A113AC3-3BB1-47C3-8D61-CD68A920A3C4}
+	EndGlobalSection
+EndGlobal

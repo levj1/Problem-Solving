@@ -1,0 +1,9 @@
+C:\Development\practice-solving-problems\CoderByte\CoderByteNetCore\bin\Debug\netcoreapp2.2\CoderByteNetCore.deps.json
+C:\Development\practice-solving-problems\CoderByte\CoderByteNetCore\bin\Debug\netcoreapp2.2\CoderByteNetCore.dll
+C:\Development\practice-solving-problems\CoderByte\CoderByteNetCore\bin\Debug\netcoreapp2.2\CoderByteNetCore.pdb
+C:\Development\practice-solving-problems\CoderByte\CoderByteNetCore\obj\Debug\netcoreapp2.2\CoderByteNetCore.csprojAssemblyReference.cache
+C:\Development\practice-solving-problems\CoderByte\CoderByteNetCore\obj\Debug\netcoreapp2.2\CoderByteNetCore.csproj.CoreCompileInputs.cache
+C:\Development\practice-solving-problems\CoderByte\CoderByteNetCore\obj\Debug\netcoreapp2.2\CoderByteNetCore.AssemblyInfoInputs.cache
+C:\Development\practice-solving-problems\CoderByte\CoderByteNetCore\obj\Debug\netcoreapp2.2\CoderByteNetCore.AssemblyInfo.cs
+C:\Development\practice-solving-problems\CoderByte\CoderByteNetCore\obj\Debug\netcoreapp2.2\CoderByteNetCore.dll
+C:\Development\practice-solving-problems\CoderByte\CoderByteNetCore\obj\Debug\netcoreapp2.2\CoderByteNetCore.pdb

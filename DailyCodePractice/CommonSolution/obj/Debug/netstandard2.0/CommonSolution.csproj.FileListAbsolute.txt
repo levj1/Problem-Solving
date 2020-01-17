@@ -1,0 +1,8 @@
+C:\Development\practice-solving-problems\DailyCodePractice\CommonSolution\bin\Debug\netstandard2.0\CommonSolution.deps.json
+C:\Development\practice-solving-problems\DailyCodePractice\CommonSolution\bin\Debug\netstandard2.0\CommonSolution.dll
+C:\Development\practice-solving-problems\DailyCodePractice\CommonSolution\bin\Debug\netstandard2.0\CommonSolution.pdb
+C:\Development\practice-solving-problems\DailyCodePractice\CommonSolution\obj\Debug\netstandard2.0\CommonSolution.csproj.CoreCompileInputs.cache
+C:\Development\practice-solving-problems\DailyCodePractice\CommonSolution\obj\Debug\netstandard2.0\CommonSolution.AssemblyInfoInputs.cache
+C:\Development\practice-solving-problems\DailyCodePractice\CommonSolution\obj\Debug\netstandard2.0\CommonSolution.AssemblyInfo.cs
+C:\Development\practice-solving-problems\DailyCodePractice\CommonSolution\obj\Debug\netstandard2.0\CommonSolution.dll
+C:\Development\practice-solving-problems\DailyCodePractice\CommonSolution\obj\Debug\netstandard2.0\CommonSolution.pdb
