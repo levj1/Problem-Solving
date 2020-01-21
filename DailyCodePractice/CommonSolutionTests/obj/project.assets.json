@@ -47,10 +47,20 @@
           "build/NUnit.props": {}
         }
       },
-      "NUnit3TestAdapter/3.16.0": {
+      "NUnit3TestAdapter/3.15.1": {
         "type": "package",
         "build": {
           "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "CommonSolution/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CommonSolution.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommonSolution.dll": {}
         }
       }
     }
@@ -249,10 +259,10 @@
         "nunit.nuspec"
       ]
     },
-    "NUnit3TestAdapter/3.16.0": {
-      "sha512": "gw5jxLU1F7loaoD8iVQeF3Ah8gu+eDZ9mihGrtqx4Jpc34fT4ePT3s2FnY4mnOV3piAiKY74WSebabS+PP5wJg==",
+    "NUnit3TestAdapter/3.15.1": {
+      "sha512": "lqh2seT1A0tBOvi4pzKj80bqtckxCLdrvv8GJlagxWhlWTlc7T6MR7hCiH7rn/Eog3XMuae1pdPxFT2fS4kJdQ==",
       "type": "package",
-      "path": "nunit3testadapter/3.16.0",
+      "path": "nunit3testadapter/3.15.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -262,22 +272,33 @@
         "build/net35/NUnit3TestAdapter.props",
         "build/net35/nunit.engine.api.dll",
         "build/net35/nunit.engine.dll",
-        "build/netcoreapp2.1/NUnit3.TestAdapter.dll",
-        "build/netcoreapp2.1/NUnit3.TestAdapter.pdb",
-        "build/netcoreapp2.1/NUnit3TestAdapter.props",
-        "build/netcoreapp2.1/nunit.engine.api.dll",
-        "build/netcoreapp2.1/nunit.engine.dll",
-        "nunit3testadapter.3.16.0.nupkg.sha512",
+        "build/netcoreapp1.0/NUnit3.TestAdapter.dll",
+        "build/netcoreapp1.0/NUnit3.TestAdapter.pdb",
+        "build/netcoreapp1.0/NUnit3TestAdapter.props",
+        "build/netcoreapp1.0/nunit.engine.api.dll",
+        "build/netcoreapp1.0/nunit.engine.dll",
+        "build/netcoreapp2.0/NUnit3.TestAdapter.dll",
+        "build/netcoreapp2.0/NUnit3.TestAdapter.pdb",
+        "build/netcoreapp2.0/NUnit3TestAdapter.props",
+        "build/netcoreapp2.0/nunit.engine.api.dll",
+        "build/netcoreapp2.0/nunit.engine.dll",
+        "nunit3testadapter.3.15.1.nupkg.sha512",
         "nunit3testadapter.nuspec"
       ]
+    },
+    "CommonSolution/1.0.0": {
+      "type": "project",
+      "path": "../CommonSolution/CommonSolution.csproj",
+      "msbuildProject": "../CommonSolution/CommonSolution.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "CommonSolution >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NETStandard.Library >= 2.0.3",
       "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.16.0"
+      "NUnit3TestAdapter >= 3.15.1"
     ]
   },
   "packageFolders": {
@@ -287,11 +308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\CommonSolutionTests\\CommonSolutionTests.csproj",
+      "projectUniqueName": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolutionTests\\CommonSolutionTests.csproj",
       "projectName": "CommonSolutionTests",
-      "projectPath": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\CommonSolutionTests\\CommonSolutionTests.csproj",
+      "projectPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolutionTests\\CommonSolutionTests.csproj",
       "packagesPath": "C:\\Users\\levj1\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\CommonSolutionTests\\obj\\",
+      "outputPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolutionTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -309,7 +330,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj": {
+              "projectPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -339,7 +364,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.16.0, )"
+            "version": "[3.15.1, )"
           }
         },
         "imports": [
@@ -355,7 +380,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'NUnit3TestAdapter 3.16.0' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'NUnit3TestAdapter 3.15.1' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "NUnit3TestAdapter",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"

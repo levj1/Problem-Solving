@@ -1,0 +1,17 @@
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\CommonTests.deps.json
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\CommonTests.runtimeconfig.json
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\CommonTests.runtimeconfig.dev.json
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\CommonTests.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\CommonTests.pdb
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\obj\Debug\netcoreapp2.2\CommonTests.csproj.CoreCompileInputs.cache
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\obj\Debug\netcoreapp2.2\CommonTests.AssemblyInfoInputs.cache
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\obj\Debug\netcoreapp2.2\CommonTests.AssemblyInfo.cs
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\obj\Debug\netcoreapp2.2\CommonTests.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\obj\Debug\netcoreapp2.2\CommonTests.pdb
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\CommonSolution.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\bin\Debug\netcoreapp2.2\CommonSolution.pdb
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\obj\Debug\netcoreapp2.2\CommonTests.csprojAssemblyReference.cache
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonTests\obj\Debug\netcoreapp2.2\CommonTests.csproj.CopyComplete

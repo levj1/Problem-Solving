@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\DCPConsole\\DCPConsole.csproj",
+      "projectUniqueName": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\DCPConsole\\DCPConsole.csproj",
       "projectName": "DCPConsole",
-      "projectPath": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\DCPConsole\\DCPConsole.csproj",
+      "projectPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\DCPConsole\\DCPConsole.csproj",
       "packagesPath": "C:\\Users\\levj1\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\DCPConsole\\obj\\",
+      "outputPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\DCPConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -731,8 +731,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Development\\practice-solving-problems\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj": {
-              "projectPath": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj"
+            "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj": {
+              "projectPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj"
             }
           }
         }

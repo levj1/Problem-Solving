@@ -11,3 +11,16 @@ C:\Development\practice-solving-problems\DailyCodePractice\CommonSolutionTests\o
 C:\Development\practice-solving-problems\DailyCodePractice\CommonSolutionTests\obj\Debug\netstandard2.0\CommonSolutionTests.AssemblyInfo.cs
 C:\Development\practice-solving-problems\DailyCodePractice\CommonSolutionTests\obj\Debug\netstandard2.0\CommonSolutionTests.dll
 C:\Development\practice-solving-problems\DailyCodePractice\CommonSolutionTests\obj\Debug\netstandard2.0\CommonSolutionTests.pdb
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\bin\Debug\netstandard2.0\CommonSolutionTests.deps.json
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\bin\Debug\netstandard2.0\CommonSolutionTests.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\bin\Debug\netstandard2.0\CommonSolutionTests.pdb
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\obj\Debug\netstandard2.0\CommonSolutionTests.csprojAssemblyReference.cache
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\obj\Debug\netstandard2.0\CommonSolutionTests.csproj.CoreCompileInputs.cache
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\obj\Debug\netstandard2.0\CommonSolutionTests.AssemblyInfoInputs.cache
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\obj\Debug\netstandard2.0\CommonSolutionTests.AssemblyInfo.cs
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\obj\Debug\netstandard2.0\CommonSolutionTests.dll
+C:\Development\practice-solving-problems\Problem-Solving\DailyCodePractice\CommonSolutionTests\obj\Debug\netstandard2.0\CommonSolutionTests.pdb

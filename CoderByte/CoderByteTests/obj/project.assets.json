@@ -5105,11 +5105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\practice-solving-problems\\CoderByte\\CoderByteTests\\CoderByteTests.csproj",
+      "projectUniqueName": "C:\\Development\\practice-solving-problems\\Problem-Solving\\CoderByte\\CoderByteTests\\CoderByteTests.csproj",
       "projectName": "CoderByteTests",
-      "projectPath": "C:\\Development\\practice-solving-problems\\CoderByte\\CoderByteTests\\CoderByteTests.csproj",
+      "projectPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\CoderByte\\CoderByteTests\\CoderByteTests.csproj",
       "packagesPath": "C:\\Users\\levj1\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\practice-solving-problems\\CoderByte\\CoderByteTests\\obj\\",
+      "outputPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\CoderByte\\CoderByteTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5128,8 +5128,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Development\\practice-solving-problems\\CoderByte\\CoderByteNetCore\\CoderByteNetCore.csproj": {
-              "projectPath": "C:\\Development\\practice-solving-problems\\CoderByte\\CoderByteNetCore\\CoderByteNetCore.csproj"
+            "C:\\Development\\practice-solving-problems\\Problem-Solving\\CoderByte\\CoderByteNetCore\\CoderByteNetCore.csproj": {
+              "projectPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\CoderByte\\CoderByteNetCore\\CoderByteNetCore.csproj"
             }
           }
         }

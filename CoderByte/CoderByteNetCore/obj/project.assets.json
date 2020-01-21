@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\practice-solving-problems\\CoderByte\\CoderByteNetCore\\CoderByteNetCore.csproj",
+      "projectUniqueName": "C:\\Development\\practice-solving-problems\\Problem-Solving\\CoderByte\\CoderByteNetCore\\CoderByteNetCore.csproj",
       "projectName": "CoderByteNetCore",
-      "projectPath": "C:\\Development\\practice-solving-problems\\CoderByte\\CoderByteNetCore\\CoderByteNetCore.csproj",
+      "projectPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\CoderByte\\CoderByteNetCore\\CoderByteNetCore.csproj",
       "packagesPath": "C:\\Users\\levj1\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\practice-solving-problems\\CoderByte\\CoderByteNetCore\\obj\\",
+      "outputPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\CoderByte\\CoderByteNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

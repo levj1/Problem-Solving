@@ -8,12 +8,24 @@ namespace DCPConsole
         static void Main(string[] args)
         {
             Solution common = new Solution();
-            var arr = new int[] { 10, 15, 3, 7 };
-            var specialNumber = 10;
+            var arr = new int[] { 1, 2, 3, 4, 5 };
+            var result = common.ProductOfOtherElements(arr);
 
-            Console.WriteLine(common.AreSumOfTwoNumbersEqualTo(arr, specialNumber));
+            PrintArray(result);
 
             Console.ReadLine();
+        }
+
+        static void PrintArray(int[] numbs)
+        {
+            foreach (var item in numbs)
+            {
+                Console.Write($"{item}");
+                if(item != numbs[numbs.Length - 1])
+                {
+                    Console.Write(",");
+                }
+            }
         }
     }
 }

@@ -1,5 +1,5 @@
-﻿
-using NUnit.Framework;
+﻿using NUnit.Framework;
+using CommonSolution;
 
 namespace CommonSolutionTests
 {
@@ -8,7 +8,7 @@ namespace CommonSolutionTests
         [Test]
         public void TestTest()
         {
-            Assert.Fail();
+            Assert.Pass();
         }
     }
 }

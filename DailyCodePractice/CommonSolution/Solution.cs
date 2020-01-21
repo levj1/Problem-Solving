@@ -26,5 +26,33 @@ namespace CommonSolution
             }
             return false;
         }
+
+        
+        /// <summary>
+        /// Given an array of integers, return a new array such that each 
+        /// element at index i of the new array is the product of all the
+        /// numbers in the original array except the one at i.
+        /// </summary>
+        /// <param name=""></param>
+        /// <returns></returns>
+        public int[] ProductOfOtherElements(int[] original)
+        {
+            int[] products = new int[original.Length];
+            for (int i = 0; i < original.Length; i++)
+            {
+                var prod = 1;
+                for (int j = 0; j < original.Length; j++)
+                {
+                    if(i != j)
+                    {
+                        prod = prod * original[j];
+                    }
+                }
+                products[i] = prod;
+            }
+
+            return products;
+        }
+         
     }
 }

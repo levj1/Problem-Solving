@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj",
+      "projectUniqueName": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj",
       "projectName": "CommonSolution",
-      "projectPath": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj",
+      "projectPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolution\\CommonSolution.csproj",
       "packagesPath": "C:\\Users\\levj1\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\practice-solving-problems\\DailyCodePractice\\CommonSolution\\obj\\",
+      "outputPath": "C:\\Development\\practice-solving-problems\\Problem-Solving\\DailyCodePractice\\CommonSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
